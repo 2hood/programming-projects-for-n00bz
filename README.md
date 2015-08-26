@@ -97,7 +97,7 @@ Happy Rolling!
 <li>Define, translate and rotate a shape with an arbitrary amount of vertices
 <li>Pong with Variable Vectors
 <li>Battleships with an Artificial Intelligence (NPC) opponent. Make sure they're beatable.
-<li>Simple Rougelike. Mega chapeau for multiplayer over LAN.
+<li>Simple Rogue-like. Mega chapeau for multiplayer over LAN.
 <li>TCP chat program with basic encryption (XOR)
 <li>Incremental Economy Simulator (Look up Time of Exploration)
 <li>Encryption / Decryption Hiding text in an image
